@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 I am a  Computer Scientist graduate from Havana, Cuba:
 
-- 🔭 I’m currently working as a Professor at the University of Havana teaching Logic, Programming and Machine Learning.
-- 🌱 I live in Havana, Cuba.
+- 🔭 I'm currently working as a Professor at the University of Havana, where I teach Logic, Programming and Machine Learning.
 - 😄 I enjoy 💻coding, 📚learning and ⚗️researching.
+- ⚡ In my free time I enjoy reading. I'm passionate about Machine Learning and Artificial Intelligence.
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Loraine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lorainemg) -->
 
 ---
