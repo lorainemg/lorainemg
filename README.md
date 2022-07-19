@@ -1,5 +1,3 @@
-### Hey there 👋
-
 <!--
 **lorainemg/lorainemg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,10 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=lorainemg&style=flat-square&color=red" alt=""/>
 </div>
+
+# Hey there 👋
 
 - 🔭 I’m currently working as a Professor at the University of Havana teaching Logic, Programming and Machine Learning 
 - 🌱 I live in Havana, Cuba
