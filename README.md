@@ -80,7 +80,7 @@ I am a  Computer Scientist graduate from Havana, Cuba:
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorainemg&repo=lorainemg)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true)](https://github.com/lorainemg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg)
   
 [![Commits](https://activity-graph.herokuapp.com/graph?username=lorainemg&bg_color=0D1117&color=58A6FF&hide_border=true&custom_title=GitHub%20Commits%20Graph&line=1F6FEB&point=C3D1D9)](https://github.com/lorainemg)
 </div>
