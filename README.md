@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react) -->
+
 ### 👩‍💻 About me:
 
 I am a  Computer Scientist graduate from Havana, Cuba:
@@ -64,3 +66,22 @@ I am a  Computer Scientist graduate from Havana, Cuba:
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp; -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats:
+
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorainemg&theme=github-dark-blue&hide_border=true)](https://github.com/lorainemg)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lorainemg&theme=github_dark&count_private=true&show_icons=true&hide_border=true)](https://github.com/lorainemg)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorainemg&repo=lorainemg)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true)](https://github.com/lorainemg)
+  
+[![Commits](https://activity-graph.herokuapp.com/graph?username=lorainemg&bg_color=0D1117&color=58A6FF&hide_border=true&custom_title=GitHub%20Commits%20Graph&line=1F6FEB&point=C3D1D9)](https://github.com/lorainemg)
+</div>
+  
