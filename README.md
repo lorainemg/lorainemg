@@ -28,7 +28,7 @@ I am a  Computer Scientist graduate from Havana, Cuba:
 - 🔭 I’m currently working as a Professor at the University of Havana teaching Logic, Programming and Machine Learning.
 - 🌱 I live in Havana, Cuba.
 - 😄 I enjoy 💻coding, 📚learning and ⚗️researching.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Loraine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lorainemg)
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Loraine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lorainemg) -->
 
 ---
 
