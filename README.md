@@ -19,8 +19,13 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=lorainemg&style=flat-square&color=red" alt=""/>
 </div>
 
-# Hey there 👋
+# Hey there:wave
 
-- 🔭 I’m currently working as a Professor at the University of Havana teaching Logic, Programming and Machine Learning 
-- 🌱 I live in Havana, Cuba
-- 😄 I enjoy 💻coding, 📚learning and ⚗️researching
+### 👩‍💻 About me:
+
+I am a  Computer Scientist graduate from Havana, Cuba:
+
+- 🔭 I’m currently working as a Professor at the University of Havana teaching Logic, Programming and Machine Learning.
+- 🌱 I live in Havana, Cuba.
+- 😄 I enjoy 💻coding, 📚learning and ⚗️researching.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Loraine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lorainemg)
