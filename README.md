@@ -85,20 +85,6 @@ I am a  Computer Scientist graduate from Havana, Cuba:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 2,104 Contributions in the Year 2022
- > 
-> 📦 169.1 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
 **I Mostly Code in Python** 
 
 ```text
@@ -112,7 +98,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2022 22:12:54 UTC
+ Last Updated on 04/12/2022 22:30:27 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
