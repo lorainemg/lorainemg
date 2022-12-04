@@ -83,7 +83,36 @@ I am a  Computer Scientist graduate from Havana, Cuba:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 2,104 Contributions in the Year 2022
+ > 
+> 📦 169.1 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 31 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   23 repos            ███████████████░░░░░░░░░░   62.16% 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+
+```
+
+
+
+ Last Updated on 04/12/2022 22:12:54 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
