@@ -84,4 +84,7 @@ I am a  Computer Scientist graduate from Havana, Cuba:
   
 [![Commits](https://activity-graph.herokuapp.com/graph?username=lorainemg&bg_color=0D1117&color=58A6FF&hide_border=true&custom_title=GitHub%20Commits%20Graph&line=1F6FEB&point=C3D1D9)](https://github.com/lorainemg)
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
