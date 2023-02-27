@@ -83,7 +83,7 @@ I am a  Computer Scientist graduate from Havana, Cuba:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2041%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -134,7 +134,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2023 00:55:31 UTC
+ Last Updated on 27/02/2023 00:50:01 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
