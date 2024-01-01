@@ -110,10 +110,10 @@ Sunday                   2686 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSV                      3 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      3 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 01:41:49 UTC
+ Last Updated on 01/01/2024 01:44:46 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
