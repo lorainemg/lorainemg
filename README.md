@@ -6,8 +6,11 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/lorainemg">
+<!--     <a href="https://www.linkedin.com/in/lorainemg">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a> -->
+      <a href="https://twitter.com/u_knoth1ng">
+      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
     <a href="https://www.reddit.com/user/u_knothing">
       <img src="https://img.shields.io/badge/Reddit-red?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit Badge"/>
