@@ -75,7 +75,7 @@ I am a Computer Scientist graduate from Havana, Cuba:
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorainemg&theme=github-dark-blue&hide_border=true)](https://github.com/lorainemg)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lorainemg&theme=github_dark&count_private=true&show_icons=true&hide_border=true)](https://github.com/lorainemg)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lorainemg&theme=github_dark&count_private=true&show_icons=true&hide_border=true)](https://github.com/lorainemg)-->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorainemg&repo=lorainemg)](https://github.com/anuraghazra/github-readme-stats) -->
 
