@@ -86,7 +86,7 @@ I am a Computer Scientist graduate from Havana, Cuba:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C120%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C122%20hrs%208%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -113,14 +113,14 @@ Sunday                   3012 commits        ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   29 hrs 26 mins      ███████████████████████░░   90.15 % 
-Svelte                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Bash                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python                   31 hrs 52 mins      ███████████████████████░░   90.29 % 
+JSON                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+CSV                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Bash                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-WSL                      32 hrs 39 mins      █████████████████████████   100.00 % 
+WSL                      35 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +136,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2024 01:32:37 UTC
+ Last Updated on 12/03/2024 01:27:01 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
