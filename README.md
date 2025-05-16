@@ -37,7 +37,7 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
   
   😄 I enjoy 💻coding, 📚learning and ⚗️researching.
     
-  📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/lorainemg/) · [Portfolio](https://loraine-portfolio.framer.website/) · [Email](mailto:lorainemonteagudo@gmail.com)
+  📫 Let's connect: <a href="https://www.linkedin.com/in/lorainemg/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="https://loraine-portfolio.framer.website/" target="_blank" rel="noopener noreferrer">Portfolio</a> · [Email](mailto:lorainemonteagudo@gmail.com)
 <!-- - 🔭 I'm currently working as a Professor at the University of Havana, where I teach Logic, Programming and Machine Learning. -->
 
 ---
