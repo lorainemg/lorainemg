@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL. With hands-on experience in both backend and frontend, I enjoy automating complex workflows with machine learning, enhancing system performance, and making data-driven products smoother and smarter.
 
-💡 Currently a Senior Full Stack Developer at Jack’s Flight Club, where I optimize performance, build real-time data solutions and create tools that make finding flight deals effortless. Previously, I’ve built smart IoT platforms, internal dashboards, and machine learning tools across startups and academia.
+💡 I have experience optimizing performance, building real-time data solutions, and creating tools that make complex processes seamless. I’ve developed smart IoT platforms, internal dashboards, and machine learning tools across startups and academia, focusing on scalable, user-centric systems. Previously, I’ve built smart IoT platforms, internal dashboards, and machine learning tools across startups and academia. Whether it’s optimizing performance, deploying with Docker and GitHub Actions, or diving into data with TensorFlow or Scikit-learn, I enjoy making tech that works cleanly and efficiently.
 
   🎓 Background in AI & NLP from the University of Havana, where I taught and mentored ML projects.
   📜 Certified [Associate Data Scientist](https://www.datacamp.com/completed/statement-of-accomplishment/track/bae4cef65b6940c1a73227d510d61ac0467e8b67) from DataCamp.
