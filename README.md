@@ -95,7 +95,7 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C832%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C836%20hrs%2050%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -122,15 +122,15 @@ Sunday                   5751 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Python                   4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-JSON                     3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-TypeScript               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Vue.js                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Python                   7 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.63 % 
+JSON                     4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Svelte                   3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+TypeScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+YAML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 💻 Operating System: 
-Mac                      18 hrs 8 mins       ███████████████████████░░   91.20 % 
-Windows                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Mac                      19 hrs 40 mins      ████████████████████████░   96.15 % 
+Windows                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2025 02:36:51 UTC
+ Last Updated on 05/07/2025 02:33:00 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
