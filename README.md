@@ -95,15 +95,13 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C382%20hrs%2045%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C382%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 274.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,808 Contributions in the Year 2025
+> 🏆 1,809 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,14 +114,14 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 ```text
 🌞 Morning                21203 commits       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
 🌆 Daytime                51034 commits       ██████████████░░░░░░░░░░░   57.89 % 
-🌃 Evening                14514 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+🌃 Evening                14515 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 🌙 Night                  1399 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   16541 commits       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Tuesday                  15348 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Tuesday                  15349 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 Wednesday                13957 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 Thursday                 15070 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 Friday                   14328 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
@@ -135,25 +133,12 @@ Sunday                   7317 commits        ██░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/New_York
-
 💬 Programming Languages: 
 Python                   21 hrs 2 mins       ████████████░░░░░░░░░░░░░   48.04 % 
 C#                       8 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
 Razor                    4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 Blazor                   3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 Vue.js                   2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-
-🔥 Editors: 
-PyCharm                  25 hrs 50 mins      ███████████████░░░░░░░░░░   59.01 % 
-Rider                    17 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   40.99 % 
-
-🐱‍💻 Projects: 
-group-split              17 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   40.97 % 
-sales-web-app            13 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   31.90 % 
-azure-deployment         7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-iot-lighting             3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-bf-admin-app             33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 
 **I Mostly Code in Python** 
@@ -168,12 +153,8 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/lorainemg/lorainemg/main/assets/bar_graph.png)
-
-
- Last Updated on 26/11/2025 03:23:55 UTC
+ Last Updated on 26/11/2025 03:41:09 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
