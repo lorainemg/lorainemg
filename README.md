@@ -85,7 +85,7 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorainemg&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lorainemg&theme=transparent)](https://git.io/streak-stats)
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lorainemg&theme=github_dark&count_private=true&show_icons=true&hide_border=true)](https://github.com/lorainemg)-->
 
