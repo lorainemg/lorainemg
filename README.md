@@ -95,7 +95,7 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C418%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C428%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -134,11 +134,11 @@ Sunday                   7325 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 41 mins      █████████████░░░░░░░░░░░░   53.65 % 
-C#                       5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Vue.js                   4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Razor                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Binary                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Python                   24 hrs 26 mins      ███████████████░░░░░░░░░░   60.96 % 
+C#                       5 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Vue.js                   4 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Razor                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Svelte                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 **I Mostly Code in Python** 
@@ -154,7 +154,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2025 07:41:41 UTC
+ Last Updated on 06/12/2025 07:36:33 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
