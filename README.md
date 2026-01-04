@@ -95,6 +95,8 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C498%20hrs%2034%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 274.1 kB Used in GitHub's Storage 
@@ -107,6 +109,37 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                22872 commits       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+🌆 Daytime                54534 commits       ██████████████░░░░░░░░░░░   57.79 % 
+🌃 Evening                15483 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌙 Night                  1470 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   17654 commits       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Tuesday                  16440 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Wednesday                15135 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Thursday                 16171 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Friday                   15307 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Saturday                 5906 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Sunday                   7746 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   2 mins              ███████████████░░░░░░░░░░   58.34 % 
+Vue.js                   1 min               ██████████░░░░░░░░░░░░░░░   41.64 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -120,7 +153,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 07:39:51 UTC
+ Last Updated on 04/01/2026 07:41:20 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
