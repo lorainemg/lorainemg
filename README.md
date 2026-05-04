@@ -95,7 +95,7 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C014%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C015%20hrs%2035%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -134,11 +134,11 @@ Sunday                   7849 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   38.70 % 
-Other                    10 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-Svelte                   3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Markdown                 2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-QML                      2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Python                   16 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   40.57 % 
+Other                    9 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Svelte                   3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Markdown                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+QML                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 ```
 
 **I Mostly Code in Python** 
@@ -154,7 +154,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2026 09:12:34 UTC
+ Last Updated on 04/05/2026 09:48:38 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
