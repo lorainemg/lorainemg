@@ -95,8 +95,6 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C075%20hrs%206%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 275.7 kB Used in GitHub's Storage 
@@ -109,38 +107,6 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                25897 commits       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-🌆 Daytime                58364 commits       ██████████████░░░░░░░░░░░   57.43 % 
-🌃 Evening                15807 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌙 Night                  1551 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   18829 commits       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Tuesday                  17957 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Wednesday                17004 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Thursday                 17530 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Friday                   16384 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Saturday                 6066 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Sunday                   7849 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   16 hrs 35 mins      ██████████████░░░░░░░░░░░   54.49 % 
-Svelte                   4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Other                    4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-TOML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -154,7 +120,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 09:26:22 UTC
+ Last Updated on 18/05/2026 11:30:10 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
