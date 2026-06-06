@@ -95,13 +95,13 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C150%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C155%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 275.7 kB Used in GitHub's Storage 
  > 
-> 🏆 941 Contributions in the Year 2026
+> 🏆 944 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,38 +109,6 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                27192 commits       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-🌆 Daytime                61194 commits       ██████████████░░░░░░░░░░░   57.30 % 
-🌃 Evening                16798 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-🌙 Night                  1619 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   19755 commits       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Tuesday                  18887 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Wednesday                17943 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Thursday                 18394 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Friday                   17147 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Saturday                 6404 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Sunday                   8273 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   10 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   40.27 % 
-Svelte                   8 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.78 % 
-TypeScript               2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -154,7 +122,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 11:14:33 UTC
+ Last Updated on 06/06/2026 09:41:43 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
