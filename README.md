@@ -95,6 +95,8 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C160%20hrs%2042%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 275.7 kB Used in GitHub's Storage 
@@ -152,7 +154,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 10:21:51 UTC
+ Last Updated on 08/06/2026 12:22:32 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
