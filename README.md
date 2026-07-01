@@ -95,13 +95,13 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C234%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C239%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 275.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,016 Contributions in the Year 2026
+> 🏆 1,018 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,10 +121,10 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 
 ```text
 Monday                   20866 commits       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Tuesday                  20041 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Tuesday                  20043 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 Wednesday                19065 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 Thursday                 19447 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Friday                   18050 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Friday                   18048 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 Saturday                 6746 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 Sunday                   8697 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 ```
@@ -134,11 +134,11 @@ Sunday                   8697 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Svelte                   4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-YAML                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Terraform                1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Python                   6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Svelte                   4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+YAML                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Terraform                1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 
 **I Mostly Code in Python** 
@@ -154,7 +154,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2026 10:56:19 UTC
+ Last Updated on 01/07/2026 11:02:42 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
