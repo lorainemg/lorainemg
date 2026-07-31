@@ -95,15 +95,15 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C245%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C251%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-369%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 176.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,168 Contributions in the Year 2026
+> 🏆 1,169 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,20 +111,78 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                29586 commits       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+🌆 Daytime                65391 commits       ██████████████░░░░░░░░░░░   57.07 % 
+🌃 Evening                17913 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+🌙 Night                  1683 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   21194 commits       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Tuesday                  20326 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Wednesday                19527 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Thursday                 19754 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Friday                   18282 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Saturday                 6800 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Sunday                   8690 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   11 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   41.70 % 
+Markdown                 7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Svelte                   2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Docker                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 9 mins (94.92%)
+
+✍️ 8,396 lines written by AI, 18 lines written by hand (99.79% AI-written)
+
+🔤 346,547,996 Input Tokens, 1,448,085 Output Tokens
+
+💵 $1286.11 Estimated AI Cost This Week
+
+🧠 91 AI Sessions, 323 AI Prompts
+
+Opus                     5,229 lines         ██████████████████░░░░░░░   72.84 % 
+Fable                    1,950 lines         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.79% of written lines came from AI
+📚 Verbose Prompter — average 1,949 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 30/07/2026 10:02:07 UTC
+ Last Updated on 31/07/2026 10:12:04 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
