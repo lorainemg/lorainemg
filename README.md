@@ -111,6 +111,64 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                32111 commits       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+🌆 Daytime                71453 commits       ██████████████░░░░░░░░░░░   56.93 % 
+🌃 Evening                20101 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+🌙 Night                  1835 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   23287 commits       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Tuesday                  22253 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Wednesday                21354 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Thursday                 21566 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Friday                   19885 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Saturday                 7571 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Sunday                   9584 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Svelte                   7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
+Markdown                 4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Python                   3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+TypeScript               3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 22 hrs 10 mins (95.2%)
+
+✍️ 7,416 lines written by AI, 5 lines written by hand (99.93% AI-written)
+
+🔤 13,704,328 Input Tokens, 1,427,941 Output Tokens
+
+💵 $507.77 Estimated AI Cost This Week
+
+🧠 42 AI Sessions, 264 AI Prompts
+
+Fable                    7,078 lines         ███████████████████████░░   92.19 % 
+Opus                     600 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 1,722 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -124,7 +182,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 07:55:53 UTC
+ Last Updated on 17/08/2026 08:23:53 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
