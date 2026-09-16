@@ -95,9 +95,9 @@ I build scalable, user-friendly applications using Python, FastAPI, Vue, and SQL
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemg&layout=compact&theme=github_dark&hide_border=true&hide=css&count_private=true)](https://github.com/lorainemg) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C437%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C441%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-552%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-555%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -136,35 +136,35 @@ Sunday                   11405 commits       ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   17 hrs 43 mins      ███████████████░░░░░░░░░░   61.76 % 
-Markdown                 3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-csharp                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-C#                       2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Svelte                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Python                   16 hrs 53 mins      ████████████████░░░░░░░░░   63.57 % 
+Markdown                 2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+C#                       2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+csharp                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Svelte                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 22 mins (88.39%)
+⏱ AI Coding Time: 23 hrs (86.57%)
 
-✍️ 6,065 lines written by AI, 130 lines written by hand (97.9% AI-written)
+✍️ 5,092 lines written by AI, 138 lines written by hand (97.36% AI-written)
 
-🔤 9,035,035 Input Tokens, 2,154,903 Output Tokens
+🔤 9,336,920 Input Tokens, 2,145,120 Output Tokens
 
-💵 $357.82 Estimated AI Cost This Week
+💵 $363.00 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 414 AI Prompts
+🧠 103 AI Sessions, 377 AI Prompts
 
-Fable                    4,055 lines         █████████████████░░░░░░░░   66.49 % 
-Opus                     2,044 lines         ████████░░░░░░░░░░░░░░░░░   33.51 % 
+Fable                    4,427 lines         ██████████████████████░░░   86.48 % 
+Opus                     692 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.9% of written lines came from AI
-📚 Verbose Prompter — average 6,727 characters per prompt
+🤖 AI-Driven — 97.36% of written lines came from AI
+📚 Verbose Prompter — average 6,366 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.97% of changed lines were hand-edited
+🚀 High AI Trust — 3.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -180,7 +180,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 13:09:46 UTC
+ Last Updated on 16/09/2026 12:56:48 UTC
 <!--END_SECTION:waka-->
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
